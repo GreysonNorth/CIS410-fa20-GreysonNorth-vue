@@ -30,7 +30,7 @@
       <li class="nav-item">
         
         <button class = 'btn btn-warning'>Log Out</button>
-        </router-link>
+        
       </li>
       
     </ul>
